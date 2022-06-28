@@ -1,0 +1,1 @@
+alter table Estoque add column country varchar(40) not null;
